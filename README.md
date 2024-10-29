@@ -1,16 +1,17 @@
-## Hi there 👋
+## Seja Bem Vindo (a) ao meu perfil 😻
 
-<!--
-**mavih2115/mavih2115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é **Maria Vitória** 🖤
 
-Here are some ideas to get you started:
+-**Sou aluna do 1 ano "B" da escola Nicanor Bueno Mendes e estudo a tarde**📊
+- **Estou estudando na [alura](https://WWW.alura.com.br)
+-**Tenho 14 anos**;
+- 🎠 **Utilizo esse perfil para compartilhar meus projetos desenvolvidos;**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Para entrar em contato comigo:**
+- 📧 teodoro.batista@escola.pr.gov.br
+  
+- mavitoria9124
+
+
+![](https://media.tenor.com/zQV1EHnRyVMAAAAj/stitch-love.gif)
+
